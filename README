@@ -1,7 +1,7 @@
 StateSelect
 =============
- state_select plugin allows you to easyly create dropdown list of states for a country provided as an option.
- Default counrty is US.
+ state_select plugin allows you to easily create drop down list of states for a country provided as an option.
+ Default country is US.
 
  Usage:
  state_select(object, method, country='US', options = {}, html_options = {})
@@ -13,8 +13,10 @@ StateSelect
 	*Thanks Chuck Phillips for Uganda states
 	*Thanks Jonathan Tron for France states
 
- If you want to add other country plese send me the list of states and I will add them.
+ If you want to add other country please send me the list of states and I will add them.
 
+ Modifications:
+	The US uses the two character abbreviations for option values.
 
 Author:
    Akhil Bansal 
